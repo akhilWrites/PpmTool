@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PpmTool.iml" filepath="$PROJECT_DIR$/.idea/PpmTool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PPMT/PMT/ppmtool/ppmtool.iml" filepath="$PROJECT_DIR$/PPMT/PMT/ppmtool/ppmtool.iml" />
+    </modules>
+  </component>
+</project>
